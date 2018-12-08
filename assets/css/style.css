@@ -47,7 +47,7 @@ footer {
     font-weight: 900;
 }
 
-@media screen and (min-width:600px) {
+@media screen and (min-width:768px) {
 
     header {
         font-family: 'Georgia', Times, Times New Roman, serif;;
@@ -173,7 +173,7 @@ footer {
     }
 }
 
-@media screen and (max-width:599px) {
+@media screen and (max-width:767px) {
 
     header {
         font-family: 'Georgia', Times, Times New Roman, serif;;
