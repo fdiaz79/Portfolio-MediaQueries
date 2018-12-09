@@ -54,7 +54,7 @@ footer {
         width: 100%;
         margin: auto;
         background-color: #ffffff;
-        padding: 0px 200px;    
+        padding: 0px 15%;    
         border-bottom: 2px solid #cccccc;
     }
 
@@ -79,7 +79,7 @@ footer {
         display: inline-block;
         background-color: #4aaaa5;
         color: #ffffff;
-        padding: 15px;
+        padding: 13px;
         margin: auto;
     }
 
@@ -88,8 +88,9 @@ footer {
     }
 
     #noBullets {
-        position: relative;
-        right:-500px;
+        position: absolute;
+        right:15%;
+        top: 10px;
         list-style-type: none;
         padding: 15px;
         margin: auto;
